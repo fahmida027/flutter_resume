@@ -1,4 +1,5 @@
 # assignment3
+![screenshot](https://github.com/fahmida027/flutter_resume/blob/main/assets/images/Screenshot.png)
 
 A new Flutter project.
 
